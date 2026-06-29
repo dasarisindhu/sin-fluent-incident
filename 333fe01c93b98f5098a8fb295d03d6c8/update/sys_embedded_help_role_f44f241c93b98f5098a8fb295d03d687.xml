@@ -1,18 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
-    <sys_embedded_help_role action="INSERT_OR_UPDATE">
-        <order>10</order>
-        <role display_value="x_678067_inciden_0.admin" name="x_678067_inciden_0.admin">e44f241c93b98f5098a8fb295d03d682</role>
-        <sys_class_name>sys_embedded_help_role</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-06-26 11:07:08</sys_created_on>
-        <sys_id>f44f241c93b98f5098a8fb295d03d687</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>e44f241c93b98f5098a8fb295d03d682</sys_name>
-        <sys_package display_value="Incident Management" source="x_678067_inciden_0">333fe01c93b98f5098a8fb295d03d6c8</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Incident Management">333fe01c93b98f5098a8fb295d03d6c8</sys_scope>
-        <sys_update_name>sys_embedded_help_role_f44f241c93b98f5098a8fb295d03d687</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-26 11:07:08</sys_updated_on>
-    </sys_embedded_help_role>
+<?xml version="1.0"?>
+<record_update table="sys_embedded_help_role">
+  <sys_embedded_help_role action="INSERT_OR_UPDATE">
+    <sys_id>f44f241c93b98f5098a8fb295d03d687</sys_id>
+    <sys_scope display_value="x_678067_inciden_0">333fe01c93b98f5098a8fb295d03d6c8</sys_scope>
+    <sys_update_name>sys_embedded_help_role_f44f241c93b98f5098a8fb295d03d687</sys_update_name>
+    <order>10</order>
+    <role>e44f241c93b98f5098a8fb295d03d682</role>
+  </sys_embedded_help_role>
 </record_update>

@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
-    <sys_user_role action="INSERT_OR_UPDATE">
-        <assignable_by/>
-        <can_delegate>true</can_delegate>
-        <description>Default admin role</description>
-        <elevated_privilege>false</elevated_privilege>
-        <federated_id>yqDhCEh2ftpLPgEaA5Y5x2sk3AlPB7BKBcePFlGnM4A=</federated_id>
-        <grantable>true</grantable>
-        <includes_roles/>
-        <name>x_678067_inciden_0.admin</name>
-        <scoped_admin>false</scoped_admin>
-        <suffix>admin</suffix>
-        <sys_class_name>sys_user_role</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-06-26 11:07:08</sys_created_on>
-        <sys_id>e44f241c93b98f5098a8fb295d03d682</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_678067_inciden_0.admin</sys_name>
-        <sys_package display_value="Incident Management" source="x_678067_inciden_0">333fe01c93b98f5098a8fb295d03d6c8</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Incident Management">333fe01c93b98f5098a8fb295d03d6c8</sys_scope>
-        <sys_update_name>sys_user_role_e44f241c93b98f5098a8fb295d03d682</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-26 11:07:08</sys_updated_on>
-    </sys_user_role>
+<?xml version="1.0"?>
+<record_update table="sys_user_role">
+  <sys_user_role action="INSERT_OR_UPDATE">
+    <sys_id>e44f241c93b98f5098a8fb295d03d682</sys_id>
+    <sys_scope display_value="x_678067_inciden_0">333fe01c93b98f5098a8fb295d03d6c8</sys_scope>
+    <sys_update_name>sys_user_role_e44f241c93b98f5098a8fb295d03d682</sys_update_name>
+    <assignable_by/>
+    <can_delegate>true</can_delegate>
+    <description>Default admin role</description>
+    <elevated_privilege>false</elevated_privilege>
+    <grantable>true</grantable>
+    <name>x_678067_inciden_0.admin</name>
+    <scoped_admin>false</scoped_admin>
+    <suffix>admin</suffix>
+  </sys_user_role>
 </record_update>

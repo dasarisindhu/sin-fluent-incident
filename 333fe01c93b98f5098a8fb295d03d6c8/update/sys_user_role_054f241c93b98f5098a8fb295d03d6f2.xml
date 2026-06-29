@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
-    <sys_user_role action="INSERT_OR_UPDATE">
-        <assignable_by/>
-        <can_delegate>true</can_delegate>
-        <description>Default user role</description>
-        <elevated_privilege>false</elevated_privilege>
-        <federated_id>3HUNXBZ/ipVNwYpe3bK8yc2H4kVHOk8w6oI8uEniPjc=</federated_id>
-        <grantable>true</grantable>
-        <includes_roles/>
-        <name>x_678067_inciden_0.user</name>
-        <scoped_admin>false</scoped_admin>
-        <suffix>user</suffix>
-        <sys_class_name>sys_user_role</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-06-26 11:07:09</sys_created_on>
-        <sys_id>054f241c93b98f5098a8fb295d03d6f2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_678067_inciden_0.user</sys_name>
-        <sys_package display_value="Incident Management" source="x_678067_inciden_0">333fe01c93b98f5098a8fb295d03d6c8</sys_package>
-        <sys_policy/>
-        <sys_scope display_value="Incident Management">333fe01c93b98f5098a8fb295d03d6c8</sys_scope>
-        <sys_update_name>sys_user_role_054f241c93b98f5098a8fb295d03d6f2</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-26 11:07:09</sys_updated_on>
-    </sys_user_role>
+<?xml version="1.0"?>
+<record_update table="sys_user_role">
+  <sys_user_role action="INSERT_OR_UPDATE">
+    <sys_id>054f241c93b98f5098a8fb295d03d6f2</sys_id>
+    <sys_scope display_value="x_678067_inciden_0">333fe01c93b98f5098a8fb295d03d6c8</sys_scope>
+    <sys_update_name>sys_user_role_054f241c93b98f5098a8fb295d03d6f2</sys_update_name>
+    <assignable_by/>
+    <can_delegate>true</can_delegate>
+    <description>Default user role</description>
+    <elevated_privilege>false</elevated_privilege>
+    <grantable>true</grantable>
+    <name>x_678067_inciden_0.user</name>
+    <scoped_admin>false</scoped_admin>
+    <suffix>user</suffix>
+  </sys_user_role>
 </record_update>
