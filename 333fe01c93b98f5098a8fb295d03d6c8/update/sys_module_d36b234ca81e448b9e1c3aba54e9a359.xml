@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<record_update table="sys_module">
+  <sys_module action="INSERT_OR_UPDATE">
+    <sys_id>d36b234ca81e448b9e1c3aba54e9a359</sys_id>
+    <sys_scope display_value="x_678067_inciden_0">333fe01c93b98f5098a8fb295d03d6c8</sys_scope>
+    <sys_update_name>sys_module_d36b234ca81e448b9e1c3aba54e9a359</sys_update_name>
+    <content><![CDATA[{
+  "name": "x_678067_inciden_0",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "imports": {
+    "#now:*": "./@types/servicenow/fluent/*/index.js"
+  },
+  "scripts": {
+    "build": "now-sdk build",
+    "deploy": "now-sdk install",
+    "transform": "now-sdk transform",
+    "types": "now-sdk dependencies"
+  },
+  "devDependencies": {
+    "@servicenow/sdk": "4.6.1",
+    "@servicenow/glide": "27.0.5"
+  }
+}]]></content>
+    <external_source>false</external_source>
+    <path>x_678067_inciden_0/x_678067_inciden_0/1.0.0/package.json</path>
+    <sys_name>x_678067_inciden_0/x_678067_inciden_0/1.0.0/package.json</sys_name>
+  </sys_module>
+</record_update>

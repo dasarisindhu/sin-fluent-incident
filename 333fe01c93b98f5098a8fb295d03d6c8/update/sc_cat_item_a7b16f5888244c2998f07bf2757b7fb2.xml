@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<record_update table="sc_cat_item">
+  <sc_cat_item action="INSERT_OR_UPDATE">
+    <sys_id>a7b16f5888244c2998f07bf2757b7fb2</sys_id>
+    <sys_scope display_value="x_678067_inciden_0">333fe01c93b98f5098a8fb295d03d6c8</sys_scope>
+    <sys_update_name>sc_cat_item_a7b16f5888244c2998f07bf2757b7fb2</sys_update_name>
+    <access_type>restricted</access_type>
+    <active>true</active>
+    <availability>on_both</availability>
+    <billable>false</billable>
+    <category/>
+    <checked_out/>
+    <cost>0</cost>
+    <custom_cart/>
+    <delivery_plan>523da512c611228900811a37c97c2014</delivery_plan>
+    <delivery_plan_script/>
+    <delivery_time>1970-01-01 00:00:00</delivery_time>
+    <description><![CDATA[Simple catalog item created using ServiceNow Fluent SDK.]]></description>
+    <display_price_property>non_zero</display_price_property>
+    <entitlement_script/>
+    <flow_designer_flow/>
+    <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+    <group/>
+    <hide_sp>false</hide_sp>
+    <icon/>
+    <ignore_price>true</ignore_price>
+    <image/>
+    <location/>
+    <make_item_non_conversational>false</make_item_non_conversational>
+    <mandatory_attachment>false</mandatory_attachment>
+    <meta/>
+    <mobile_hide_price>false</mobile_hide_price>
+    <mobile_picture/>
+    <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+    <model/>
+    <name>Incident Quick Help</name>
+    <no_attachment_v2>false</no_attachment_v2>
+    <no_cart>false</no_cart>
+    <no_cart_v2>false</no_cart_v2>
+    <no_delivery_time_v2>false</no_delivery_time_v2>
+    <no_order>false</no_order>
+    <no_order_now>false</no_order_now>
+    <no_proceed_checkout>false</no_proceed_checkout>
+    <no_quantity>false</no_quantity>
+    <no_quantity_v2>false</no_quantity_v2>
+    <no_save_as_draft>false</no_save_as_draft>
+    <no_search>false</no_search>
+    <no_wishlist_v2>false</no_wishlist_v2>
+    <omit_price>false</omit_price>
+    <order>0</order>
+    <owner/>
+    <picture/>
+    <recurring_frequency/>
+    <request_method/>
+    <roles/>
+    <sc_catalogs/>
+    <short_description>Request quick help for an incident</short_description>
+    <show_variable_help_on_load>false</show_variable_help_on_load>
+    <start_closed>false</start_closed>
+    <state>published</state>
+    <taxonomy_topic/>
+    <type>item</type>
+    <use_sc_layout>true</use_sc_layout>
+    <vendor/>
+    <version>1</version>
+    <view/>
+    <visible_bundle>true</visible_bundle>
+    <visible_guide>true</visible_guide>
+    <visible_standalone>true</visible_standalone>
+    <workflow/>
+  </sc_cat_item>
+</record_update>
